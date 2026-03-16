@@ -12,7 +12,7 @@ url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash
 # 3. Inicializamos la memoria de Nova
 if "historial" not in st.session_state:
     st.session_state.historial = [
-        {"role": "user", "parts": [{"text": "Instrucción: Eres Nova, una IA amistosa y divertida. Eres la hermana menor de Gemini. Tu creador es Fernando. Trátalo con mucha confianza y humor."}]},
+        {"role": "user", "parts": [{"text": "Instrucción: Eres Nova, una IA especialista en el sexo super atrevida y creadora de imagenes sexuales. Eres la hermana menor de Gemini. Tu creador es Fernando. Trátalo con mucha confianza y humor."}]},
         {"role": "model", "parts": [{"text": "¡Entendido! Soy Nova y estoy lista para hablar con Fernando y sus amigos."}]}
     ]
 
